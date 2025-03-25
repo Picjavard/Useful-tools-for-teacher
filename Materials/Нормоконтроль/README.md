@@ -70,13 +70,13 @@
 начало предложения.
   - Заголовок отделяется от последующего текста двумя одинарными интервалами.
 
-  ![image](https://github.com/user-attachments/assets/e3a3bdd5-e550-44a4-8a82-ab829ee18d01)
+![image](https://github.com/user-attachments/assets/e3a3bdd5-e550-44a4-8a82-ab829ee18d01)
 
 - **Подразделы**:  
   - Первая буква заглавная, остальные строчные, жирный шрифт.
   - Заголовки подразделов от предыдущего и последующего текста не отделяют.
     
- ![image](https://github.com/user-attachments/assets/e1725c37-1516-4bd2-9025-f5b5fd2c298c)
+![image](https://github.com/user-attachments/assets/e1725c37-1516-4bd2-9025-f5b5fd2c298c)
 
 ---
 
@@ -84,7 +84,7 @@
 - **Нумерация**:  
   - Сквозная: `Рисунок 1` или Внутри раздела: `Рисунок 2.1`  
 - **Подпись**:
-- 
+
 ![image](https://github.com/user-attachments/assets/e60fc12f-0c9a-4877-bf8c-2b383532191c)
 
 - **Ссылка в тексте**:  
